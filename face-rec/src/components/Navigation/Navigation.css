@@ -1,0 +1,17 @@
+.nav-signout {
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: #04C8DE;
+    color: white;   
+    padding: 12px;
+    transition: border 300ms linear,
+                background-color 300ms linear,
+                color 300ms linear;
+}
+
+.nav-signout:hover {
+    border: 2px solid #AA195D;
+    background-color: white;
+    color: #AA195D;
+    cursor: pointer;
+}
